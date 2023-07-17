@@ -1,4 +1,4 @@
-package com.example.yum_app
+package com.annaraczynska.yum_app
 
 import io.flutter.embedding.android.FlutterActivity
 
